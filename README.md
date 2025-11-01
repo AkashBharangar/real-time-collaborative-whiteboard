@@ -254,4 +254,4 @@ database for CoSketch having below 3 documents and its respective structure ment
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Video
-[Watch demo on youtube](https://youtu.be/TMMNbH83FuU?si=RDMJBNZJJpEZYxYp)
+[Watch demo video](https://www.veed.io/view/ab6cc92b-ac0e-4dae-9ba9-e3e79dc20b45?source=editor&panel=share)
